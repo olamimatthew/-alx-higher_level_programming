@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def copy_list(my_list):
+def copy_list(l):
     """Function that returns a copy of list"""
-    return my_list[:]
+    return l[:]
